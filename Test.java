@@ -16,7 +16,5 @@ public class Test
         
         Person p= new Person ("Mary", 4);
         System.out.println (p.getName ());
-        
-        System.out.println ("Captain Majid says hello!")"
     }
 }
