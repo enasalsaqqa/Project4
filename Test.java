@@ -17,13 +17,12 @@ public class Test
         Person p= new Person ("Mary", 4);
         System.out.println (p.getName ());
         System.out.println ("Captain Majid was here!");
-
 	System.out.println("Mahmood");
-
 	System.out.println("Majd sami");
         System.out.println ("kahled eid");
         System.out.println("Basheer Shehabi Typed This!");
-		System.out.println("hamza hamed-20140751");
+	System.out.println("hamza hamed-20140751");
         System.out.println("Captain America was here!");
+	System.out.println("Fadia");
     }
 }
